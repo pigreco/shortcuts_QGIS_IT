@@ -12,6 +12,6 @@ Raccogliere e documentare tutte le shortcuts di base e di spiegare come personal
 
 ## Output
 
-Creare un PDF aggiornato partendo dall'ottimo spunto creato da Nyall Dowson:
+Creare un PDF aggiornato partendo dall'ottimo spunto creato da Nyall Dawson:
 
 ![screen](./imgs/shortcuts_nyall.png)
