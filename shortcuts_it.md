@@ -10,7 +10,7 @@ icona|nome|menu|scorciatoia
 ![](./imgs/icon/mActionFileSave.png) |Salva progetto|Progetto > Salva|<kbd>Ctrl + S</kbd>
 ![](./imgs/icon/mActionFileSaveAs.png)|Salva progetto come|Progetto > Salva come|<kbd>Ctrl + Shift + S</kbd>
 ![](./imgs/icon/mActionNewLayout.png)|Nuovo layout di stampa|Progetto > Nuovo layout di stampa|<kbd>Ctrl + P</kbd>
-</kbd>
+
 ## Gestione dei layer
 
 icona|nome|menu|scorciatoia
@@ -72,9 +72,9 @@ icona|nome|menu|scorciatoia
 ![](./imgs/icon/mIconFormSelect.png)|Seleziona geometria per valore|Modifica > Seleziona > Seleziona geometria per valore|<kbd>F3</kbd>
 ![](./imgs/icon/mIconExpressionSelect.png)|Seleziona elementi con espressione|Modifica > Seleziona > Seleziona elementi con espressione|<kbd>Ctrl + F3</kbd>
 ![](./imgs/icon/mActionSelectAll.png)|Seleziona tutte le geometrie|Modifica > Seleziona > Seleziona tutte le geometrie|<kbd>Ctrl + A</kbd>
-![](./imgs/icon/mActionInvertSelection.png)|Inverti la selezione delle geometrie|Modifica > Seleziona > Inverti la selezione delle geometrie|<kbd>Ctrl + Shift + A</kbd>
+![](./imgs/icon/mActionDeselectAll.png)|Deseleziona tutto|Modifica > Seleziona > Deseleziona tutto|<kbd>Ctrl + Shift + A</kbd>
 ![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|Layer > Apri tabella attributi|<kbd>F6</kbd>
-![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|(sono elementi selezionati)|<kbd>Shift +F6</kbd>
+![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|(sono elementi selezionati)|<kbd>Shift + F6</kbd>
 ![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|(solo elementi visibili)|<kbd>Ctrl + F6</kbd>
 ![](./imgs/icon/mActionSum.png)|Mostra sintesi delle Statistiche|Visualizza > Sintesi delle Statistiche|<kbd>Ctrl + 6</kbd>
 ![](./imgs/icon/mActionMeasure.png)|Misura|Visualizza > Misura > Misura linea|<kbd>Ctrl + Shift + M</kbd>
@@ -89,21 +89,21 @@ icona|nome|menu|scorciatoia
 ![](./imgs/icon/mIconPythonFile.png)|Python Console|Plugin > Python Console|<kbd>Ctrl + Alt + P</kbd>
 ![](./imgs/icon/search.png)|Localizzatore universale|Locator Bar|<kbd>Ctrl + K</kbd>
 ![](./imgs/icon/cad.png)|Digitalizzazione avanzata|Visualizza > Pannelli > Digitalizzazione avanzata|<kbd>Ctrl + 4</kbd>
--|Annulla/Ripristina|Visualizza > Pannelli > Pannello Annulla/Ripristina|<kbd>Ctrl + 5</kbd>
--|Panoramica|Visualizza > Pannelli > Pannello Panoramica|<kbd>Ctrl + 8</kbd>
--|Ordina Layer|Visualizza > Pannelli > Pannello ordina layer|<kbd>Ctrl + 9</kbd>
--|Informazioni sul GPS||<kbd>Ctrl + 0</kbd>
--|Attiva schermo intero||<kbd>F11</kbd>
--|Attiva/disattiva tutti i Pannelli aperti||<kbd>Ctrl + Tab</kbd>
--|Attiva schermo intero senza icone||<kbd>Ctrl + Shift + Tab</kbd>
+Pannello|Annulla/Ripristina|Visualizza > Pannelli > Pannello Annulla/Ripristina|<kbd>Ctrl + 5</kbd>
+Pannello|Panoramica|Visualizza > Pannelli > Pannello Panoramica|<kbd>Ctrl + 8</kbd>
+Pannello|Ordina Layer|Visualizza > Pannelli > Pannello ordina layer|<kbd>Ctrl + 9</kbd>
+PannelloInformazioni sul GPS||<kbd>Ctrl + 0</kbd>
+GUI|Attiva schermo intero||<kbd>F11</kbd>
+GUI|Attiva/disattiva tutti i Pannelli aperti||<kbd>Ctrl + Tab</kbd>
+GUI|Attiva schermo intero senza icone||<kbd>Ctrl + Shift + Tab</kbd>
 ![](./imgs/icon/mActionUndo.png)|Annulla||<kbd>Ctrl + Z</kbd>
 ![](./imgs/icon/mActionRedo.png)|Ripristina||<kbd>Ctrl + Shift + Z</kbd>
--|Taglia elementi||<kbd>Ctrl + X</kbd>
--|Incolla elementi||<kbd>Ctrl + V</kbd>
+![](./imgs/icon/mActionEditCut.png)|Taglia elementi||<kbd>Ctrl + X</kbd>
+![](./imgs/icon/mActionEditPaste.png)|Incolla elementi||<kbd>Ctrl + V</kbd>
 -|Incolla file temporaneo||<kbd>Ctrl + Alt + V</kbd>
--|Mostra tutti i Layer||<kbd>Ctrl + U</kbd>
--|Nascondi tutti i layer||<kbd>Ctrl + H</kbd>
-![](./imgs/icon/mActionAddWmsLayer.png)|Aggiungi lauer WMS||<kbd>Ctrl + Shift + W</kbd>
+![](./imgs/icon/mActionShowAllLayers.png)|Mostra tutti i Layer||<kbd>Ctrl + U</kbd>
+![](./imgs/icon/mActionHideAllLayers.png)|Nascondi tutti i layer||<kbd>Ctrl + H</kbd>
+![](./imgs/icon/mActionAddWmsLayer.png)|Aggiungi layer WMS||<kbd>Ctrl + Shift + W</kbd>
 ![](./imgs/icon/CRS.png)|Imposta SR del/i layer||<kbd>Ctrl + Shift + C</kbd>
 ![](./imgs/icon/mActionSaveEdits.png)|Salva||<kbd>Ctrl +S</kbd>
 ![](./imgs/icon/mActionSaveEdits.png)|Esci da QGIS||<kbd>Ctrl + Q</kbd>
