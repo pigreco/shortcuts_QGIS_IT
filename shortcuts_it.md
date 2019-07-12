@@ -1,6 +1,7 @@
 # Scorciatoie da tastiera QGIS 3.4 LTR Madeira
 
 ![splash](./imgs/splash_3_4_0.png)
+
 ## Gestione del progetto
 
 icona|nome|menu|scorciatoia
