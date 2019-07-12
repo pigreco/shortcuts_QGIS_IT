@@ -2,7 +2,7 @@
 
 icona  | nome                          | menu                              | scorciatoia
 -------|-------------------------------|-----------------------------------|-----------
-![](./imgs/icon/mActionFileNew.png)    | Nuovo Progetto                    | Progetto > Nuovo                  | `Ctrl + N`
+![](./imgs/icon/mActionFileNew.png)    | Nuovo Progetto                    | Progetto > Nuovo                  | <kbd>Ctrl + N</kbd>
 ![](./imgs/icon/mActionFileOpen.png)   | Apri Progetto                     | Progetto > Apri                   | `Ctrl + D`
 ![](./imgs/icon/mActionFileSave.png)   | Salva Progetto                    | Progetto > Salva                  | `Ctrl + S`
 ![](./imgs/icon/mActionFileSaveAs.png) | Salva Progetto come               | Progetto > Salva come             | `Ctrl + Shift + S`
