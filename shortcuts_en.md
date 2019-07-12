@@ -1,7 +1,5 @@
 # Shortcuts QGIS 3.4 LTR Madeira
 
-![splash](./imgs/splash_3_4_0.png)
-
 ## Project Management
 
 Icon|Name|Menu|Shortcuts

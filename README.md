@@ -1,5 +1,7 @@
 # shortcuts_QGIS_IT
 
+![splash](./imgs/splash_3_4_0.png)
+
 Scorciatoie da tastiera per la GUI di QGIS
 
 ## Perché questo repository
