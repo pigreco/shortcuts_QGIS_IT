@@ -124,6 +124,27 @@ icona|nome|menu|scorciatoia
 -|Y||<kbd>Y</kbd>
 ![](./imgs/icon/cad_parallel.png)![](./imgs/icon/cad_perpendicular.png)|Parallelo/Perpendicolare||<kbd>P</kbd>
 
+## Tabella Attributi ![](./imgs/icon/mActionOpenTable.png)
+
+icona|nome|menu|scorciatoia
+---|---|---|---
+![](./imgs/icon/mActionToggleEditing.png)|Attiva modifiche|Tabella attributi aperta|<kbd>Ctrl + E</kbd>
+![](./imgs/icon/mActionSaveEdits.png)|Salva modifiche|Tabella attributi aperta|<kbd>Ctrl + S</kbd>
+![](./imgs/icon/mActionDeleteSelected.png)|Elimina elementi selezionati|Tabella attributi aperta|<kbd>Del</kbd>
+![](./imgs/icon/mActionEditCut.png)|Taglia elementi selezionati|Tabella attributi aperta|<kbd>Ctrl + X</kbd>
+![](./imgs/icon/mActionEditCopy.png)|Copia elementi selezionati negli appunti|Tabella attributi aperta|<kbd>Ctrl + C</kbd>
+![](./imgs/icon/mActionEditPaste.png)|Incolla elementi dagli appunti|Tabella attributi aperta|<kbd>Ctrl + V</kbd>
+![](./imgs/icon/mActionSelectAll.png)|Seleziona tutto|Tabella attributi aperta|<kbd>Ctrl + A</kbd>
+![](./imgs/icon/mActionInvertSelection.png)|Inverti selezione|Tabella attributi aperta|<kbd>Ctrl + R</kbd>
+![](./imgs/icon/mActionDeselectAll.png)|Deseleziona tutto|Tabella attributi aperta|<kbd>Ctrl + Shift + A</kbd>
+![](./imgs/icon/mActionFilterMap.png)|Filtra con modulo|Tabella attributi aperta|<kbd>Ctrl + F</kbd>
+![](./imgs/icon/mActionSelectedToTop.png)|Sposta selezione in cima|Tabella attributi aperta|<kbd>Ctrl + T</kbd>
+![](./imgs/icon/mActionPanToSelected.png)|Sposta mappa alle righe selezionate|Tabella attributi aperta|<kbd>Ctrl + P</kbd>
+![](./imgs/icon/mActionZoomToSelected.png)|Zomm mappa alle righe selezionate|Tabella attributi aperta|<kbd>Ctrl + J</kbd>
+![](./imgs/icon/mActionNewAttribute.png)|Nuovo campo|Tabella attributi aperta|<kbd>Ctrl + W</kbd>
+![](./imgs/icon/mActionDeleteAttribute.png)|Elimina campo|Tabella attributi aperta|<kbd>Ctrl + L</kbd>
+![](./imgs/icon/mActionCalculateField.png)|Apre calcolatore di campi|Tabella attributi aperta|<kbd>Ctrl + I</kbd>
+
 ## Compositore di Stampe ![](./imgs/icon/mActionNewLayout.png)
 
 icona|nome|menu|scorciatoia

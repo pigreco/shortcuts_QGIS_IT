@@ -124,6 +124,27 @@ Icon|Name|Menu|Shortcuts
 -|Y||<kbd>Y</kbd>
 ![](./imgs/icon/cad_parallel.png)![](./imgs/icon/cad_perpendicular.png)|Parallel/Perpendicular||<kbd>P</kbd>
 
+## Attributes Table ![](./imgs/icon/mActionOpenTable.png)
+
+Icon|Name|Menu|Shortcuts
+---|---|---|---
+![](./imgs/icon/mActionToggleEditing.png)|Toggle Editing|with attribute table open|<kbd>Ctrl + E</kbd>
+![](./imgs/icon/mActionSaveEdits.png)|Save Edit|with attribute table open|<kbd>Ctrl + S</kbd>
+![](./imgs/icon/mActionDeleteSelected.png)|Delete selected|with attribute table open|<kbd>Del</kbd>
+![](./imgs/icon/mActionEditCut.png)|Edit Cut|with attribute table open|<kbd>Ctrl + X</kbd>
+![](./imgs/icon/mActionEditCopy.png)|Edit Copy|with attribute table open|<kbd>Ctrl + C</kbd>
+![](./imgs/icon/mActionEditPaste.png)|Edit Paste|with attribute table open|<kbd>Ctrl + V</kbd>
+![](./imgs/icon/mActionSelectAll.png)|Seelct All|with attribute table open|<kbd>Ctrl + A</kbd>
+![](./imgs/icon/mActionInvertSelection.png)|Invert Selection|with attribute table open|<kbd>Ctrl + R</kbd>
+![](./imgs/icon/mActionDeselectAll.png)|Deselect All|with attribute table open|<kbd>Ctrl + Shift + A</kbd>
+![](./imgs/icon/mActionFilterMap.png)|Filter Map|with attribute table open|<kbd>Ctrl + F</kbd>
+![](./imgs/icon/mActionSelectedToTop.png)|Move selected to Top|with attribute table open|<kbd>Ctrl + T</kbd>
+![](./imgs/icon/mActionPanToSelected.png)|Pan to selected|with attribute table open|<kbd>Ctrl + P</kbd>
+![](./imgs/icon/mActionZoomToSelected.png)|Zomm  to selected|with attribute table open|<kbd>Ctrl + J</kbd>
+![](./imgs/icon/mActionNewAttribute.png)|New attribute|with attribute table open|<kbd>Ctrl + W</kbd>
+![](./imgs/icon/mActionDeleteAttribute.png)|Delete attribute|with attribute table open|<kbd>Ctrl + L</kbd>
+![](./imgs/icon/mActionCalculateField.png)|Open Calculator field|with attribute table open|<kbd>Ctrl + I</kbd>
+
 ## Print Composer ![](./imgs/icon/mActionNewLayout.png)
 
 Icon|Name|Menu|Shortcuts
