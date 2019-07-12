@@ -74,7 +74,7 @@ icona|nome|menu|scorciatoia
 ![](./imgs/icon/mActionSelectAll.png)|Seleziona tutte le geometrie|Modifica > Seleziona > Seleziona tutte le geometrie|<kbd>Ctrl + A</kbd>
 ![](./imgs/icon/mActionDeselectAll.png)|Deseleziona tutto|Modifica > Seleziona > Deseleziona tutto|<kbd>Ctrl + Shift + A</kbd>
 ![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|Layer > Apri tabella attributi|<kbd>F6</kbd>
-![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|(sono elementi selezionati)|<kbd>Shift + F6</kbd>
+![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|(solo elementi selezionati)|<kbd>Shift + F6</kbd>
 ![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|(solo elementi visibili)|<kbd>Ctrl + F6</kbd>
 ![](./imgs/icon/mActionSum.png)|Mostra sintesi delle Statistiche|Visualizza > Sintesi delle Statistiche|<kbd>Ctrl + 6</kbd>
 ![](./imgs/icon/mActionMeasure.png)|Misura|Visualizza > Misura > Misura linea|<kbd>Ctrl + Shift + M</kbd>
@@ -92,7 +92,7 @@ icona|nome|menu|scorciatoia
 Pannello|Annulla/Ripristina|Visualizza > Pannelli > Pannello Annulla/Ripristina|<kbd>Ctrl + 5</kbd>
 Pannello|Panoramica|Visualizza > Pannelli > Pannello Panoramica|<kbd>Ctrl + 8</kbd>
 Pannello|Ordina Layer|Visualizza > Pannelli > Pannello ordina layer|<kbd>Ctrl + 9</kbd>
-PannelloInformazioni sul GPS||<kbd>Ctrl + 0</kbd>
+Pannello|Informazioni sul GPS||<kbd>Ctrl + 0</kbd>
 GUI|Attiva schermo intero||<kbd>F11</kbd>
 GUI|Attiva/disattiva tutti i Pannelli aperti||<kbd>Ctrl + Tab</kbd>
 GUI|Attiva schermo intero senza icone||<kbd>Ctrl + Shift + Tab</kbd>
