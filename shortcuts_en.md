@@ -123,3 +123,28 @@ Icon|Name|Menu|Shortcuts
 -|X||<kbd>X</kbd>
 -|Y||<kbd>Y</kbd>
 ![](./imgs/icon/cad_parallel.png)![](./imgs/icon/cad_perpendicular.png)|Parallel/Perpendicular||<kbd>P</kbd>
+
+## Print Composer ![](./imgs/icon/mActionNewLayout.png)
+
+Icon|Name|Menu|Shortcuts
+---|---|---|---
+-|Page Setup|Layout > Page Setup|<kbd>Ctrl + Shif + P</kbd>
+![](./imgs/icon/mActionFilePrint.png)|Print|Layout > Print|<kbd>Ctrl + P</kbd>
+-|Close|Layout > Close|<kbd>Ctrl + Q</kbd>
+![](./imgs/icon/mActionPan.png)|Pan Layout|Edit > Pan Layout|<kbd>P</kbd>
+![](./imgs/icon/mActionZoomToArea.png)|Zoom|Edit > Zoom|<kbd>Z</kbd>
+![](./imgs/icon/mActionSelect.png)|Select/Pan object|Edit > Select/Pan object|<kbd>V</kbd>
+![](./imgs/icon/mActionMoveItemContent.png)|Move content|Edit > Move content|<kbd>C</kbd>
+![](./imgs/icon/mActionGroupItems.png)|Groups|Object > Groups|<kbd>Ctrl + G</kbd>
+![](./imgs/icon/mActionUngroupItems.png)|Remove Grouping|Object > Remove Grouping|<kbd>Ctrl +Shift + G</kbd>
+![](./imgs/icon/mActionRaiseItems.png)|Move Up| Object > Move Up|<kbd>Ctrl +Shift + ]</kbd>
+![](./imgs/icon/mActionLowerItems.png)|Move Down| Object > Move Down|<kbd>Ctrl +Shift + [</kbd>
+![](./imgs/icon/mActionMoveItemsToTop.png)|Move items to top| Object > Move items to top|<kbd>Ctrl + Shift + ]</kbd>
+![](./imgs/icon/mActionMoveItemsToBottom.png)|Move items to the bottom| Object > Move items to the bottom|<kbd>Ctrl + Shift + [</kbd>
+-|blocks selected items| Object > blocks selected items|<kbd>Ctrl + L</kbd>
+-|unlocks selected items| Object > unlocks selected items|<kbd>Ctrl + Shift + L</kbd>
+![](./imgs/icon/mIconAtlas.png)|Atlas Preview| Atlas > Atlas Preview|<kbd>Ctrl + Alt + /</kbd>
+![](./imgs/icon/mActionAtlasFirst.png)|First geometry| Atlas > First geometry|<kbd>Ctrl + <</kbd>
+![](./imgs/icon/mActionAtlasPrev.png)|Previous geometry| Atlas > Previous geometry|<kbd>Ctrl + ,</kbd>
+![](./imgs/icon/mActionAtlasNext.png)|Next geometry| Atlas > Next geometry|<kbd>Ctrl + .</kbd>
+![](./imgs/icon/mActionAtlasLast.png)|Last geometry| Atlas > Last geometry|<kbd>Ctrl + ></kbd>

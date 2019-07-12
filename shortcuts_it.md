@@ -46,8 +46,8 @@ icona|nome|menu|scorciatoia
 
 icona|nome|menu|scorciatoia
 ---|---|---|---
-![](./imgs/icon/mActionToggleEditing.png)|Attiva modifica|Layer > Attiva modifica|
-![](./imgs/icon/mActionSaveEdits.png)|Salva modifiche vettore|Layer > Salva modifiche vettore|
+![](./imgs/icon/mActionToggleModificaing.png)|Attiva modifica|Layer > Attiva modifica|
+![](./imgs/icon/mActionSaveModificas.png)|Salva modifiche vettore|Layer > Salva modifiche vettore|
 ![](./imgs/icon/mActionCapturePoint.png)|Aggiungi elemento (Punto)|Modifica > Aggiungi elemento (Punto)|<kbd>Ctrl + .</kbd>
 ![](./imgs/icon/mActionCaptureLine.png)|Aggiungi elemento (Linea)|Modifica > Aggiungi elemento (Linea)|<kbd>Ctrl + .</kbd>
 ![](./imgs/icon/mActionCapturePolygon.png)|Aggiungi elemento (Poligono)|Modifica > Aggiungi elemento (Poligono)|<kbd>Ctrl + .</kbd>
@@ -98,15 +98,15 @@ GUI|Attiva/disattiva tutti i Pannelli aperti||<kbd>Ctrl + Tab</kbd>
 GUI|Attiva schermo intero senza icone||<kbd>Ctrl + Shift + Tab</kbd>
 ![](./imgs/icon/mActionUndo.png)|Annulla||<kbd>Ctrl + Z</kbd>
 ![](./imgs/icon/mActionRedo.png)|Ripristina||<kbd>Ctrl + Shift + Z</kbd>
-![](./imgs/icon/mActionEditCut.png)|Taglia elementi||<kbd>Ctrl + X</kbd>
-![](./imgs/icon/mActionEditPaste.png)|Incolla elementi||<kbd>Ctrl + V</kbd>
+![](./imgs/icon/mActionModificaCut.png)|Taglia elementi||<kbd>Ctrl + X</kbd>
+![](./imgs/icon/mActionModificaPaste.png)|Incolla elementi||<kbd>Ctrl + V</kbd>
 -|Incolla file temporaneo||<kbd>Ctrl + Alt + V</kbd>
 ![](./imgs/icon/mActionShowAllLayers.png)|Mostra tutti i Layer||<kbd>Ctrl + U</kbd>
 ![](./imgs/icon/mActionHideAllLayers.png)|Nascondi tutti i layer||<kbd>Ctrl + H</kbd>
 ![](./imgs/icon/mActionAddWmsLayer.png)|Aggiungi layer WMS||<kbd>Ctrl + Shift + W</kbd>
 ![](./imgs/icon/CRS.png)|Imposta SR del/i layer||<kbd>Ctrl + Shift + C</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Salva||<kbd>Ctrl +S</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Esci da QGIS||<kbd>Ctrl + Q</kbd>
+![](./imgs/icon/mActionSaveModificas.png)|Salva||<kbd>Ctrl +S</kbd>
+![](./imgs/icon/mActionSaveModificas.png)|Esci da QGIS||<kbd>Ctrl + Q</kbd>
 ![](./imgs/icon/mActionNewLayout.png)|Nuovo layout di Stampa||<kbd>Ctrl + P</kbd>
 ![](./imgs/icon/mActionQgisHomePage.png)|Pagina Ufficale di QGIS.org||<kbd>Ctrl + H</kbd>
 ![](./imgs/icon/mIndicatorFilter.png)|Filtra||<kbd>Ctrl + F</kbd>
@@ -123,3 +123,28 @@ icona|nome|menu|scorciatoia
 -|X||<kbd>X</kbd>
 -|Y||<kbd>Y</kbd>
 ![](./imgs/icon/cad_parallel.png)![](./imgs/icon/cad_perpendicular.png)|Parallelo/Perpendicolare||<kbd>P</kbd>
+
+## Compositore di Stampe ![](./imgs/icon/mActionNewLayout.png)
+
+icona|nome|menu|scorciatoia
+---|---|---|---
+-|Page Setup|Layout > Page Setup|<kbd>Ctrl + Shif + P</kbd>
+![](./imgs/icon/mActionFilePrint.png)|Stampa|Layout > Stampa|<kbd>Ctrl + P</kbd>
+-|Close|Layout > Close|<kbd>Ctrl + Q</kbd>
+![](./imgs/icon/mActionPan.png)|Sposta layout|Modifica > Sposta layout|<kbd>P</kbd>
+![](./imgs/icon/mActionZoomToArea.png)|Zoom|Modifica > Zoom|<kbd>Z</kbd>
+![](./imgs/icon/mActionSelect.png)|Seleziona/Sposta oggetto|Modifica > Seleziona/Sposta oggetto|<kbd>V</kbd>
+![](./imgs/icon/mActionMoveItemContent.png)|Sposta contenuto|Modifica > Sposta contenuto|<kbd>C</kbd>
+![](./imgs/icon/mActionGroupItems.png)|Raggruppa|Oggetti > Raggruppa|<kbd>Ctrl + G</kbd>
+![](./imgs/icon/mActionUngroupItems.png)|Rimuovi raggruppamento|Oggetti > Rimuovi raggruppamento|<kbd>Ctrl +Shift + G</kbd>
+![](./imgs/icon/mActionRaiseItems.png)|Sposta in alto| Oggetti > Sposta in alto|<kbd>Ctrl +Shift + ]</kbd>
+![](./imgs/icon/mActionLowerItems.png)|Sposta in basso| Oggetti > Sposta in basso|<kbd>Ctrl +Shift + [</kbd>
+![](./imgs/icon/mActionMoveItemsToTop.png)|Sposta elementi in altro| Oggetti > Sposta elementi in altro|<kbd>Ctrl + Shift + ]</kbd>
+![](./imgs/icon/mActionMoveItemsToBottom.png)|Sposta elementi in basso| Oggetti > Sposta elementi in basso|<kbd>Ctrl + Shift + [</kbd>
+-|Blocca elementi selezionati| Oggetti > Blocca elementi selezionati|<kbd>Ctrl + L</kbd>
+-|Sblocca elementi selezionati| Oggetti > Sblocca elementi selezionati|<kbd>Ctrl + Shift + L</kbd>
+![](./imgs/icon/mIconAtlas.png)|Anteprima Atlante| Atlas > Anteprima Atlante|<kbd>Ctrl + Alt + /</kbd>
+![](./imgs/icon/mActionAtlasFirst.png)|Prima geometria| Atlas > Prima geometria|<kbd>Ctrl + <</kbd>
+![](./imgs/icon/mActionAtlasPrev.png)|Geometria precedente| Atlas > Geometria precedente|<kbd>Ctrl + ,</kbd>
+![](./imgs/icon/mActionAtlasNext.png)|Geometria successiva| Atlas > Next geometry|<kbd>Ctrl + .</kbd>
+![](./imgs/icon/mActionAtlasLast.png)|Ultima geometria| Atlas > Ultima geometria|<kbd>Ctrl + ></kbd>
