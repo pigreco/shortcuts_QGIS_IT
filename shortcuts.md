@@ -87,32 +87,32 @@ icona|nome|menu|scorciatoia
 ---|---|---|---
 ![](./imgs/icon/processingAlgorithm.png)|Strumenti|Processing > Strumenti|<kbd>Ctrl + Alt + T</kbd>
 ![](./imgs/icon/mIconPythonFile.png)|Python Console|Plugin > Python Console|<kbd>Ctrl + Alt + P</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Localizzatore universale|Locator Bar|<kbd>Ctrl + K</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Digitalizzazione avanzata|Visualizza > Pannelli > Digitalizzazione avanzata|<kbd>Ctrl + 4</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Annulla/Ripristina|Visualizza > Pannelli > Pannello Annulla/Ripristina|<kbd>Ctrl + 5</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Panoramica|Visualizza > Pannelli > Pannello Panoramica|<kbd>Ctrl + 8</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Ordina Layer|Visualizza > Pannelli > Pannello ordina layer|<kbd>Ctrl + 9</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Informazioni sul GPS||<kbd>Ctrl + 0</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Attiva schermo intero||<kbd>F11</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Attiva/disattiva tutti i Pannelli aperti||<kbd>Ctrl + Tab</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Attiva schermo intero senza icone||<kbd>Ctrl + Shift + Tab</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Annulla||<kbd>Ctrl + Z</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Taglia elementi||<kbd>Ctrl + X</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Incolla elementi||<kbd>Ctrl + V</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Incolla file temporaneo||<kbd>Ctrl + Alt + V</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Mostra tutti i Layer||<kbd>Ctrl + U</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Nascondi tutti i layer||<kbd>Ctrl + H</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Ripristina||<kbd>Ctrl + Shift + Z</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Aggiungi lauer WMS||<kbd>Ctrl + Shift + W</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Imposta SR del/i layer||<kbd>Ctrl + Shift + C</kbd>
+![](./imgs/icon/search.png)|Localizzatore universale|Locator Bar|<kbd>Ctrl + K</kbd>
+![](./imgs/icon/cad.png)|Digitalizzazione avanzata|Visualizza > Pannelli > Digitalizzazione avanzata|<kbd>Ctrl + 4</kbd>
+-|Annulla/Ripristina|Visualizza > Pannelli > Pannello Annulla/Ripristina|<kbd>Ctrl + 5</kbd>
+-|Panoramica|Visualizza > Pannelli > Pannello Panoramica|<kbd>Ctrl + 8</kbd>
+-|Ordina Layer|Visualizza > Pannelli > Pannello ordina layer|<kbd>Ctrl + 9</kbd>
+-|Informazioni sul GPS||<kbd>Ctrl + 0</kbd>
+-|Attiva schermo intero||<kbd>F11</kbd>
+-|Attiva/disattiva tutti i Pannelli aperti||<kbd>Ctrl + Tab</kbd>
+-|Attiva schermo intero senza icone||<kbd>Ctrl + Shift + Tab</kbd>
+![](./imgs/icon/mActionUndo.png)|Annulla||<kbd>Ctrl + Z</kbd>
+![](./imgs/icon/mActionRedo.png)|Ripristina||<kbd>Ctrl + Shift + Z</kbd>
+-|Taglia elementi||<kbd>Ctrl + X</kbd>
+-|Incolla elementi||<kbd>Ctrl + V</kbd>
+-|Incolla file temporaneo||<kbd>Ctrl + Alt + V</kbd>
+-|Mostra tutti i Layer||<kbd>Ctrl + U</kbd>
+-|Nascondi tutti i layer||<kbd>Ctrl + H</kbd>
+![](./imgs/icon/mActionAddWmsLayer.png)|Aggiungi lauer WMS||<kbd>Ctrl + Shift + W</kbd>
+![](./imgs/icon/CRS.png)|Imposta SR del/i layer||<kbd>Ctrl + Shift + C</kbd>
 ![](./imgs/icon/mActionSaveEdits.png)|Salva||<kbd>Ctrl +S</kbd>
 ![](./imgs/icon/mActionSaveEdits.png)|Esci da QGIS||<kbd>Ctrl + Q</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Nuovo layout di Stampa||<kbd>Ctrl + P</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Pagina Ufficale di QGIS.org||<kbd>Ctrl + H</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Filtra||<kbd>Ctrl + F</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Visualizza Risultati||<kbd>Ctrl + Shift + R</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Modellatore Grafico||<kbd>Ctrl + Shift + M</kbd>
-![](./imgs/icon/mActionSaveEdits.png)|Storico||<kbd>Ctrl + Shift + H</kbd>
+![](./imgs/icon/mActionNewLayout.png)|Nuovo layout di Stampa||<kbd>Ctrl + P</kbd>
+![](./imgs/icon/mActionQgisHomePage.png)|Pagina Ufficale di QGIS.org||<kbd>Ctrl + H</kbd>
+![](./imgs/icon/mIndicatorFilter.png)|Filtra||<kbd>Ctrl + F</kbd>
+![](./imgs/icon/processingResult.png)|Visualizza Risultati||<kbd>Ctrl + Shift + R</kbd>
+![](./imgs/icon/processingModel.png)|Modellatore Grafico||<kbd>Ctrl + Shift + M</kbd>
+![](./imgs/icon/history.png)|Storico||<kbd>Ctrl + Shift + H</kbd>
 
 ## Digitalizzazione avanzata ![](./imgs/icon/cad.png)
 
