@@ -2,7 +2,7 @@
 
 ![splash](./imgs/splash_3_4_0.png)
 
-Scorciatoie da tastiera per la GUI di QGIS (Keyboard shortcuts for the QGIS GUI)
+Scorciatoie da tastiera per la GUI di QGIS (_Keyboard shortcuts for the QGIS GUI_)
 
 ## Perché questo repository (_Why this repository_)
 

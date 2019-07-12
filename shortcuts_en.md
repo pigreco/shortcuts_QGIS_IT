@@ -113,7 +113,7 @@ Panel|Paste temporary file||<kbd>Ctrl + Alt + V</kbd>
 ![](./imgs/icon/processingModel.png)|Graphic modeller||<kbd>Ctrl + Shift + M</kbd>
 ![](./imgs/icon/history.png)|historical||<kbd>Ctrl + Shift + H</kbd>
 
-## Digitalizzazione avanzata ![](./imgs/icon/cad.png)
+## Advanced digitization ![](./imgs/icon/cad.png)
 
 Icon|Name|Menu|Shortcuts
 ---|---|---|---
