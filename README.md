@@ -1,16 +1,16 @@
-# shortcuts_QGIS_IT
+# Shortcuts QGIS IT/EN
 
 ![splash](./imgs/splash_3_4_0.png)
 
-Scorciatoie da tastiera per la GUI di QGIS
+Scorciatoie da tastiera per la GUI di QGIS (Keyboard shortcuts for the QGIS GUI)
 
-## Perché questo repository
+## Perché questo repository (_Why this repository_)
 
-L'interfaccia di QGIS sembra sempre la stessa ma in realtà sotto il cofano gira un motore potentissimo che puo' essere dominato attraverso delle shortcuts (scorciatoie da tastiera).
+L'interfaccia di QGIS sembra sempre la stessa ma in realtà sotto il cofano gira un motore potentissimo che puo' essere dominato attraverso delle shortcuts (scorciatoie da tastiera). _(The interface of QGIS always seems the same but in reality under the hood runs a powerful engine that can be dominated through shortcuts (keyboard shortcuts).)_
 
-## Obiettivo
+## Obiettivo (_Goal_)
 
-Raccogliere e documentare tutte le shortcuts di base e di spiegare come personalizzarle e crearne di nuove.
+Raccogliere e documentare tutte le shortcuts di base e di spiegare come personalizzarle e crearne di nuove. _(Collect and document all the basic shortcuts and explain how to customize them and create new ones.)_
 
 ## Shortcuts
 
@@ -19,6 +19,6 @@ Raccogliere e documentare tutte le shortcuts di base e di spiegare come personal
 
 ## Output
 
-Creare un PDF aggiornato partendo dall'ottimo spunto creato da [Nyall Dawson](https://north-road.com/qgis-3-0-shortcuts/):
+Creare un PDF aggiornato partendo dall'ottimo spunto creato da [Nyall Dawson](https://north-road.com/qgis-3-0-shortcuts/): _(Create an updated PDF starting from the excellent idea created by)_
 
 ![screen](./imgs/shortcuts_nyall.png)
