@@ -26,11 +26,12 @@ icona|nome|menu|scorciatoia
 
 icona|nome|menu|scorciatoia
 ---|---|---|---
-![](./imgs/icon/mActionPan.png)|Sposta mappa|Visualizza > Sposta mappa|<kbd>Premere Rotellina mouse / Tasto Sx+Barra spaziatrice</kbd>
+![](./imgs/icon/mActionPan.png)|Sposta mappa|Visualizza > Sposta mappa|<kbd>Premere Rotellina mouse/Tasto Sx+Barra spaziatrice</kbd>
 ![](./imgs/icon/mActionPanToSelected.png)|Sposta la mappa sulla selezione|Visualizza > Sposta la mappa sulla selezione|
 ![](./imgs/icon/mActionZoomIn.png)|Ingrandisci|Visualizza > Ingrandisci|<kbd>Ctrl+Alt++</kbd>
 ![](./imgs/icon/mActionZoomOut.png)|Rimpicciolisci|Visualizza > Rimpicciolisci|<kbd>Ctrl+Alt+-</kbd>
 ![](./imgs/icon/mActionZoomFullExtent.png)|Zoom Completo|Visualizza > Zoom Completo|<kbd>Ctrl+Shift+F</kbd>
+-|Zoom Adagio||<kbd>Ctrl+Rotellina</kbd>
 ![](./imgs/icon/mActionZoomToSelected.png)|Zoom alla selezione|Visualizza > Zoom alla selezione|<kbd>Ctrl+J</kbd>
 ![](./imgs/icon/mActionZoomToLayer.png)|Zoom sul layer|Visualizza > Zoom sul layer|
 ![](./imgs/icon/mActionZoomLast.png)|Ultimo Zoom|Visualizza > Ultimo Zoom|<kbd>Pulsante del mouse indietro</kbd>

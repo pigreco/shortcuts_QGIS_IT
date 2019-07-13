@@ -31,6 +31,7 @@ Icon|Name|Menu|Shortcuts
 ![](./imgs/icon/mActionZoomIn.png)|Zoom In|View > Zoom In|<kbd>Ctrl+Alt++</kbd>
 ![](./imgs/icon/mActionZoomOut.png)|Zoom Out|View > Zoom Out|<kbd>Ctrl+Alt+-</kbd>
 ![](./imgs/icon/mActionZoomFullExtent.png)|Zoom Full|View > Zoom Full|<kbd>Ctrl+Shift+F</kbd>
+-|Zoom Slow||<kbd>Ctrl+Mouse wheel</kbd>
 ![](./imgs/icon/mActionZoomToSelected.png)|Zoom to Selection|View > Zoom to Selection|<kbd>Ctrl+J</kbd>
 ![](./imgs/icon/mActionZoomToLayer.png)|Zoom to layer|View > Zoom to layer|
 ![](./imgs/icon/mActionZoomLast.png)|Zoom Last|View > Zoom Last|<kbd>Mouse back button</kbd>
