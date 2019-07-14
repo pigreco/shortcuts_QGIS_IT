@@ -148,7 +148,7 @@ icona|nome|menu|scorciatoia
 ![](./imgs/icon/mActionFilterMap.png)|Filtra con modulo|Tabella attributi aperta|<kbd>Ctrl+F</kbd>
 ![](./imgs/icon/mActionSelectedToTop.png)|Sposta selezione in cima|Tabella attributi aperta|<kbd>Ctrl+T</kbd>
 ![](./imgs/icon/mActionPanToSelected.png)|Sposta mappa alle righe selezionate|Tabella attributi aperta|<kbd>Ctrl+P</kbd>
-![](./imgs/icon/mActionZoomToSelected.png)|Zomm mappa alle righe selezionate|Tabella attributi aperta|<kbd>Ctrl+J</kbd>
+![](./imgs/icon/mActionZoomToSelected.png)|Zoom mappa alle righe selezionate|Tabella attributi aperta|<kbd>Ctrl+J</kbd>
 ![](./imgs/icon/mActionNewAttribute.png)|Nuovo campo|Tabella attributi aperta|<kbd>Ctrl+W</kbd>
 ![](./imgs/icon/mActionDeleteAttribute.png)|Elimina campo|Tabella attributi aperta|<kbd>Ctrl+L</kbd>
 ![](./imgs/icon/mActionCalculateField.png)|Apre calcolatore di campi|Tabella attributi aperta|<kbd>Ctrl+I</kbd>
