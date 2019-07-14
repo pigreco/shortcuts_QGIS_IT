@@ -69,9 +69,9 @@ icona|nome|menu|scorciatoia
 ![](./imgs/icon/mActionSelectPolygon.png)|Seleziona geometria con un poligono|Modifica > Seleziona > Seleziona geometria con un poligono|
 ![](./imgs/icon/mActionSelectFreehand.png)|Seleziona geometrie a mano libera|Modifica > Seleziona > Seleziona geometrie a mano libera|
 ![](./imgs/icon/mActionSelectRadius.png)|Seleziona geometria con un cerchio|Modifica > Seleziona > Seleziona geometria con un cerchio|
-![](./imgs/icon/mIconFormSelect.png)|Seleziona geometria per valore|Modifica > Seleziona > Seleziona geometria per valore|<kbd>F3</kbd>
-![](./imgs/icon/mIconExpressionSelect.png)|Seleziona elementi con espressione|Modifica > Seleziona > Seleziona elementi con espressione|<kbd>Ctrl+F3</kbd>
-![](./imgs/icon/mActionSelectAll.png)|Seleziona tutte le geometrie|Modifica > Seleziona > Seleziona tutte le geometrie|<kbd>Ctrl+A</kbd>
+![](./imgs/icon/mIconFormSelect.png)|Seleziona Elementi per valore|Modifica > Seleziona > Seleziona Elementi per valore|<kbd>F3</kbd>
+![](./imgs/icon/mIconExpressionSelect.png)|Seleziona Elementi con espressione|Modifica > Seleziona > Seleziona Elementi con espressione|<kbd>Ctrl+F3</kbd>
+![](./imgs/icon/mActionSelectAll.png)|Seleziona tutti gli Elementi|Modifica > Seleziona > Seleziona tutti gli Elementi|<kbd>Ctrl+A</kbd>
 ![](./imgs/icon/mActionDeselectAll.png)|Deseleziona tutto|Modifica > Seleziona > Deseleziona tutto|<kbd>Ctrl+Shift+A</kbd>
 ![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|Layer > Apri tabella attributi|<kbd>F6</kbd>
 ![](./imgs/icon/mActionOpenTable.png)|Apri tabella attributi|(solo elementi selezionati)|<kbd>Shift+F6</kbd>
