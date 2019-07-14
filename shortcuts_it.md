@@ -118,10 +118,18 @@ GUI|Attiva schermo intero senza icone||<kbd>Ctrl+Shift+Tab</kbd>
 
 icona|nome|menu|scorciatoia
 ---|---|---|---
+![](./imgs/icon/cad_construction.png)|Modalità Costruzione||<kbd>C</kbd>
 -|Distanza||<kbd>D</kbd>
+![](./imgs/icon/locked.png)|Distanza bloccata||<kbd>Ctrl+D</kbd>
 -|Angolo||<kbd>A</kbd>
+![](./imgs/icon/locked.png)|Angolo Bloccato||<kbd>Ctrl+A</kbd>
+![](./imgs/icon/delta.png)|Angolo Relativo/Assoluto||<kbd>Shift+A</kbd>
 -|X||<kbd>X</kbd>
+![](./imgs/icon/locked.png)|X Bloccato||<kbd>Ctrl+X</kbd>
+![](./imgs/icon/delta.png)|X Relativo/Assoluto||<kbd>Shift+X</kbd>
 -|Y||<kbd>Y</kbd>
+![](./imgs/icon/locked.png)|Y Bloccato||<kbd>Ctrl+Y</kbd>
+![](./imgs/icon/delta.png)|Y Relativo/Assoluto||<kbd>Shift+Y</kbd>
 ![](./imgs/icon/cad_parallel.png)![](./imgs/icon/cad_perpendicular.png)|Parallelo/Perpendicolare||<kbd>P</kbd>
 
 ## Tabella Attributi ![](./imgs/icon/mActionOpenTable.png)
